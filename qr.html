@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>QR Calendario Mundial 2026</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: Arial, Helvetica, sans-serif;
+        background: #f6f6f3;
+        color: #161616;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+      }
+
+      main {
+        width: min(92vw, 520px);
+        padding: 28px;
+        background: #ffffff;
+        border: 1px solid #d8d8d2;
+        border-radius: 8px;
+        box-shadow: 0 18px 40px rgb(0 0 0 / 10%);
+      }
+
+      h1 {
+        margin: 0 0 18px;
+        font-size: 24px;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: 700;
+      }
+
+      input {
+        box-sizing: border-box;
+        width: 100%;
+        min-height: 44px;
+        padding: 10px 12px;
+        border: 1px solid #a7a79f;
+        border-radius: 6px;
+        font: inherit;
+      }
+
+      button {
+        min-height: 42px;
+        margin-top: 12px;
+        padding: 0 16px;
+        border: 0;
+        border-radius: 6px;
+        background: #111827;
+        color: #ffffff;
+        font: inherit;
+        font-weight: 700;
+        cursor: pointer;
+      }
+
+      #qr {
+        display: grid;
+        place-items: center;
+        min-height: 260px;
+        margin-top: 22px;
+        border: 1px dashed #babaae;
+        border-radius: 8px;
+        background: #fbfbf9;
+      }
+
+      #qr img {
+        width: 240px;
+        height: 240px;
+      }
+
+      p {
+        margin: 14px 0 0;
+        color: #55554d;
+        font-size: 14px;
+        line-height: 1.45;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>QR Calendario Mundial 2026</h1>
+      <label for="calendar-url">URL publica del .ics</label>
+      <input
+        id="calendar-url"
+        placeholder="https://ejemplo.com/world-cup-2026.ics"
+        value="https://franja24.github.io/calendar_world_cup.github.io/dist/world-cup-2026.ics"
+      />
+      <button id="generate" type="button">Generar QR</button>
+      <div id="qr">Pega la URL y genera el QR.</div>
+      <p>Para iPhone y Android, publica el archivo con extension .ics y tipo de contenido text/calendar.</p>
+    </main>
+
+    <script>
+      const input = document.querySelector("#calendar-url");
+      const button = document.querySelector("#generate");
+      const qr = document.querySelector("#qr");
+
+      function generateQr() {
+        const url = input.value.trim();
+        if (!url) {
+          qr.textContent = "Pega la URL y genera el QR.";
+          return;
+        }
+
+        const src = "https://api.qrserver.com/v1/create-qr-code/?size=240x240&data=" + encodeURIComponent(url);
+        qr.innerHTML = "";
+        const image = document.createElement("img");
+        image.alt = "QR del calendario";
+        image.src = src;
+        qr.appendChild(image);
+      }
+
+      button.addEventListener("click", generateQr);
+      input.addEventListener("keydown", (event) => {
+        if (event.key === "Enter") {
+          generateQr();
+        }
+      });
+      generateQr();
+    </script>
+  </body>
+</html>
