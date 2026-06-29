@@ -7,7 +7,7 @@ X-WR-CALNAME:Mundial 2026
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:world-cup-2026-760415@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 SUMMARY:Mundial 2026: Mexico vs South Africa
@@ -25,7 +25,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760414@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 SUMMARY:Mundial 2026: South Korea vs Czechia
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760416@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 SUMMARY:Mundial 2026: Canada vs Bosnia-Herzegovina
@@ -61,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760417@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 SUMMARY:Mundial 2026: United States vs Paraguay
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760420@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 SUMMARY:Mundial 2026: Qatar vs Switzerland
@@ -97,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760419@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 SUMMARY:Mundial 2026: Brazil vs Morocco
@@ -115,7 +115,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760418@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 SUMMARY:Mundial 2026: Haiti vs Scotland
@@ -133,7 +133,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760421@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
 SUMMARY:Mundial 2026: Australia vs Türkiye
@@ -151,7 +151,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760422@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 SUMMARY:Mundial 2026: Germany vs Curaçao
@@ -169,7 +169,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760425@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 SUMMARY:Mundial 2026: Netherlands vs Japan
@@ -187,7 +187,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760423@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 SUMMARY:Mundial 2026: Ivory Coast vs Ecuador
@@ -205,7 +205,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760424@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 SUMMARY:Mundial 2026: Sweden vs Tunisia
@@ -223,7 +223,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760428@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 SUMMARY:Mundial 2026: Spain vs Cape Verde
@@ -241,7 +241,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760426@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 SUMMARY:Mundial 2026: Belgium vs Egypt
@@ -259,7 +259,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760429@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
 SUMMARY:Mundial 2026: Saudi Arabia vs Uruguay
@@ -277,7 +277,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760427@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
 SUMMARY:Mundial 2026: Iran vs New Zealand
@@ -295,7 +295,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760432@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 SUMMARY:Mundial 2026: France vs Senegal
@@ -313,7 +313,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760430@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
 SUMMARY:Mundial 2026: Iraq vs Norway
@@ -331,7 +331,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760433@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
 SUMMARY:Mundial 2026: Argentina vs Algeria
@@ -349,13 +349,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760431@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 SUMMARY:Mundial 2026: Austria vs Jordan
 DESCRIPTION:Sede: Levi's Stadium\, Santa Clara\, California\, USA\nTransmis
- ion: FS1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gam
- eId/760431/jordan-austria\nCalendario sujeto a cambios.
+ ion: FS1\, Tele\nFuente: https://www.espn.com/soccer/match/_/gameId/760431
+ /jordan-austria\nCalendario sujeto a cambios.
 LOCATION:Levi's Stadium\, Santa Clara\, California\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -367,7 +367,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760435@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
 SUMMARY:Mundial 2026: Portugal vs Congo DR
@@ -385,7 +385,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760437@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
 SUMMARY:Mundial 2026: England vs Croatia
@@ -403,12 +403,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760434@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
 SUMMARY:Mundial 2026: Ghana vs Panama
-DESCRIPTION:Sede: BMO Field\, Toronto\, Canada\nTransmision: FS1\, Tele\, P
- eacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760434/panama-g
+DESCRIPTION:Sede: BMO Field\, Toronto\, Canada\nTransmision: FS1\, Tele\, F
+ OX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760434/panama-g
  hana\nCalendario sujeto a cambios.
 LOCATION:BMO Field\, Toronto\, Canada
 STATUS:CONFIRMED
@@ -421,12 +421,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760436@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
 SUMMARY:Mundial 2026: Uzbekistan vs Colombia
 DESCRIPTION:Sede: Estadio Banorte\, Mexico City\, Mexico\nTransmision: FS1\
- , Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/76043
+ , Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/76043
  6/colombia-uzbekistan\nCalendario sujeto a cambios.
 LOCATION:Estadio Banorte\, Mexico City\, Mexico
 STATUS:CONFIRMED
@@ -439,12 +439,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760438@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
 SUMMARY:Mundial 2026: Czechia vs South Africa
 DESCRIPTION:Sede: Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nTransmis
- ion: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gam
+ ion: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gam
  eId/760438/south-africa-czechia\nCalendario sujeto a cambios.
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA
 STATUS:CONFIRMED
@@ -457,12 +457,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760439@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 SUMMARY:Mundial 2026: Switzerland vs Bosnia-Herzegovina
 DESCRIPTION:Sede: SoFi Stadium\, Inglewood\, California\, USA\nTransmision:
-  FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/
+  FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/
  760439/bosnia-herzegovina-switzerland\nCalendario sujeto a cambios.
 LOCATION:SoFi Stadium\, Inglewood\, California\, USA
 STATUS:CONFIRMED
@@ -475,12 +475,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760440@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
 SUMMARY:Mundial 2026: Canada vs Qatar
 DESCRIPTION:Sede: BC Place\, Vancouver\, Canada\nTransmision: FS1\, Tele\, 
- Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760440/qatar-c
+ FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760440/qatar-c
  anada\nCalendario sujeto a cambios.
 LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
@@ -493,12 +493,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760441@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
 SUMMARY:Mundial 2026: Mexico vs South Korea
 DESCRIPTION:Sede: Estadio Akron\, Guadalajara\, Mexico\nTransmision: FOX\, 
- Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760441/
+ Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760441/
  south-korea-mexico\nCalendario sujeto a cambios.
 LOCATION:Estadio Akron\, Guadalajara\, Mexico
 STATUS:CONFIRMED
@@ -511,12 +511,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760442@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 SUMMARY:Mundial 2026: United States vs Australia
 DESCRIPTION:Sede: Lumen Field\, Seattle\, Washington\, USA\nTransmision: FO
- X\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760
+ X\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760
  442/australia-united-states\nCalendario sujeto a cambios.
 LOCATION:Lumen Field\, Seattle\, Washington\, USA
 STATUS:CONFIRMED
@@ -529,12 +529,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760445@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
 SUMMARY:Mundial 2026: Scotland vs Morocco
 DESCRIPTION:Sede: Gillette Stadium\, Foxborough\, Massachusetts\, USA\nTran
- smision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_
+ smision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_
  /gameId/760445/morocco-scotland\nCalendario sujeto a cambios.
 LOCATION:Gillette Stadium\, Foxborough\, Massachusetts\, USA
 STATUS:CONFIRMED
@@ -547,12 +547,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760444@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
 SUMMARY:Mundial 2026: Brazil vs Haiti
 DESCRIPTION:Sede: Lincoln Financial Field\, Philadelphia\, Pennsylvania\, U
- SA\nTransmision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer
+ SA\nTransmision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer
  /match/_/gameId/760444/haiti-brazil\nCalendario sujeto a cambios.
 LOCATION:Lincoln Financial Field\, Philadelphia\, Pennsylvania\, USA
 STATUS:CONFIRMED
@@ -565,12 +565,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760443@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
 SUMMARY:Mundial 2026: Türkiye vs Paraguay
 DESCRIPTION:Sede: Levi's Stadium\, Santa Clara\, California\, USA\nTransmis
- ion: FS1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gam
+ ion: FS1\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gam
  eId/760443/paraguay-turkiye\nCalendario sujeto a cambios.
 LOCATION:Levi's Stadium\, Santa Clara\, California\, USA
 STATUS:CONFIRMED
@@ -583,12 +583,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760447@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
 SUMMARY:Mundial 2026: Netherlands vs Sweden
 DESCRIPTION:Sede: NRG Stadium\, Houston\, Texas\, USA\nTransmision: FOX\, T
- ele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760447/s
+ ele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760447/s
  weden-netherlands\nCalendario sujeto a cambios.
 LOCATION:NRG Stadium\, Houston\, Texas\, USA
 STATUS:CONFIRMED
@@ -601,12 +601,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760448@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
 SUMMARY:Mundial 2026: Germany vs Ivory Coast
-DESCRIPTION:Sede: BMO Field\, Toronto\, Canada\nTransmision: FOX\, Tele\, P
- eacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760448/ivory-co
+DESCRIPTION:Sede: BMO Field\, Toronto\, Canada\nTransmision: FOX\, Tele\, F
+ OX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760448/ivory-co
  ast-germany\nCalendario sujeto a cambios.
 LOCATION:BMO Field\, Toronto\, Canada
 STATUS:CONFIRMED
@@ -619,12 +619,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760446@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
 SUMMARY:Mundial 2026: Ecuador vs Curaçao
 DESCRIPTION:Sede: GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\
- , USA\nTransmision: FS1\, Tele\, Peacock\nFuente: https://www.espn.com/soc
+ , USA\nTransmision: FS1\, Tele\, FOX One\nFuente: https://www.espn.com/soc
  cer/match/_/gameId/760446/curacao-ecuador\nCalendario sujeto a cambios.
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, USA
 STATUS:CONFIRMED
@@ -637,12 +637,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760449@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
 SUMMARY:Mundial 2026: Tunisia vs Japan
 DESCRIPTION:Sede: Estadio BBVA\, Guadalupe\, Mexico\nTransmision: FS1\, Tel
- e\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760449/jap
+ e\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760449/jap
  an-tunisia\nCalendario sujeto a cambios.
 LOCATION:Estadio BBVA\, Guadalupe\, Mexico
 STATUS:CONFIRMED
@@ -655,12 +655,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760453@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
 SUMMARY:Mundial 2026: Spain vs Saudi Arabia
 DESCRIPTION:Sede: Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nTransmis
- ion: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gam
+ ion: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gam
  eId/760453/saudi-arabia-spain\nCalendario sujeto a cambios.
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA
 STATUS:CONFIRMED
@@ -673,12 +673,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760451@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
 SUMMARY:Mundial 2026: Belgium vs Iran
 DESCRIPTION:Sede: SoFi Stadium\, Inglewood\, California\, USA\nTransmision:
-  FS1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/
+  FS1\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/
  760451/iran-belgium\nCalendario sujeto a cambios.
 LOCATION:SoFi Stadium\, Inglewood\, California\, USA
 STATUS:CONFIRMED
@@ -691,12 +691,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760450@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
 SUMMARY:Mundial 2026: Uruguay vs Cape Verde
 DESCRIPTION:Sede: Hard Rock Stadium\, Miami Gardens\, Florida\, USA\nTransm
- ision: FS1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/g
+ ision: FS1\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/g
  ameId/760450/cape-verde-uruguay\nCalendario sujeto a cambios.
 LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, USA
 STATUS:CONFIRMED
@@ -709,12 +709,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760452@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
 SUMMARY:Mundial 2026: New Zealand vs Egypt
 DESCRIPTION:Sede: BC Place\, Vancouver\, Canada\nTransmision: FS1\, Tele\, 
- Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760452/egypt-n
+ FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760452/egypt-n
  ew-zealand\nCalendario sujeto a cambios.
 LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
@@ -727,12 +727,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760456@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
 SUMMARY:Mundial 2026: Argentina vs Austria
 DESCRIPTION:Sede: AT&T Stadium\, Arlington\, Texas\, USA\nTransmision: FOX\
- , Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/76045
+ , Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/76045
  6/austria-argentina\nCalendario sujeto a cambios.
 LOCATION:AT&T Stadium\, Arlington\, Texas\, USA
 STATUS:CONFIRMED
@@ -745,12 +745,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760457@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
 SUMMARY:Mundial 2026: France vs Iraq
 DESCRIPTION:Sede: Lincoln Financial Field\, Philadelphia\, Pennsylvania\, U
- SA\nTransmision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer
+ SA\nTransmision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer
  /match/_/gameId/760457/iraq-france\nCalendario sujeto a cambios.
 LOCATION:Lincoln Financial Field\, Philadelphia\, Pennsylvania\, USA
 STATUS:CONFIRMED
@@ -763,12 +763,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760454@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
 SUMMARY:Mundial 2026: Norway vs Senegal
 DESCRIPTION:Sede: MetLife Stadium\, East Rutherford\, New Jersey\, USA\nTra
- nsmision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/
+ nsmision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/
  _/gameId/760454/senegal-norway\nCalendario sujeto a cambios.
 LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, USA
 STATUS:CONFIRMED
@@ -781,12 +781,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760455@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 SUMMARY:Mundial 2026: Jordan vs Algeria
 DESCRIPTION:Sede: Levi's Stadium\, Santa Clara\, California\, USA\nTransmis
- ion: FS1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gam
+ ion: FS1\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gam
  eId/760455/algeria-jordan\nCalendario sujeto a cambios.
 LOCATION:Levi's Stadium\, Santa Clara\, California\, USA
 STATUS:CONFIRMED
@@ -799,12 +799,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760461@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
 SUMMARY:Mundial 2026: Portugal vs Uzbekistan
 DESCRIPTION:Sede: NRG Stadium\, Houston\, Texas\, USA\nTransmision: FOX\, T
- ele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760461/u
+ ele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760461/u
  zbekistan-portugal\nCalendario sujeto a cambios.
 LOCATION:NRG Stadium\, Houston\, Texas\, USA
 STATUS:CONFIRMED
@@ -817,12 +817,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760458@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
 SUMMARY:Mundial 2026: England vs Ghana
 DESCRIPTION:Sede: Gillette Stadium\, Foxborough\, Massachusetts\, USA\nTran
- smision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_
+ smision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_
  /gameId/760458/ghana-england\nCalendario sujeto a cambios.
 LOCATION:Gillette Stadium\, Foxborough\, Massachusetts\, USA
 STATUS:CONFIRMED
@@ -835,12 +835,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760460@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
 SUMMARY:Mundial 2026: Panama vs Croatia
-DESCRIPTION:Sede: BMO Field\, Toronto\, Canada\nTransmision: FOX\, Tele\, P
- eacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760460/croatia-
+DESCRIPTION:Sede: BMO Field\, Toronto\, Canada\nTransmision: FOX\, Tele\, F
+ OX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760460/croatia-
  panama\nCalendario sujeto a cambios.
 LOCATION:BMO Field\, Toronto\, Canada
 STATUS:CONFIRMED
@@ -853,12 +853,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760459@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
 SUMMARY:Mundial 2026: Colombia vs Congo DR
 DESCRIPTION:Sede: Estadio Akron\, Guadalajara\, Mexico\nTransmision: FS1\, 
- Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760459/
+ Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760459/
  congo-dr-colombia\nCalendario sujeto a cambios.
 LOCATION:Estadio Akron\, Guadalajara\, Mexico
 STATUS:CONFIRMED
@@ -871,13 +871,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760462@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:Mundial 2026: Bosnia-Herzegovina vs Qatar
 DESCRIPTION:Sede: Lumen Field\, Seattle\, Washington\, USA\nTransmision: FS
- 1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760
- 462/qatar-bosnia-herzegovina\nCalendario sujeto a cambios.
+ 1\, Universo\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId
+ /760462/qatar-bosnia-herzegovina\nCalendario sujeto a cambios.
 LOCATION:Lumen Field\, Seattle\, Washington\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -889,12 +889,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760463@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:Mundial 2026: Switzerland vs Canada
 DESCRIPTION:Sede: BC Place\, Vancouver\, Canada\nTransmision: FOX\, Tele\, 
- Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760463/canada-
+ FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760463/canada-
  switzerland\nCalendario sujeto a cambios.
 LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
@@ -907,13 +907,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760464@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:Mundial 2026: Morocco vs Haiti
 DESCRIPTION:Sede: Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nTransmis
- ion: FS1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gam
- eId/760464/haiti-morocco\nCalendario sujeto a cambios.
+ ion: FS1\, Universo\, FOX One\nFuente: https://www.espn.com/soccer/match/_
+ /gameId/760464/haiti-morocco\nCalendario sujeto a cambios.
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -925,12 +925,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760465@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:Mundial 2026: Scotland vs Brazil
 DESCRIPTION:Sede: Hard Rock Stadium\, Miami Gardens\, Florida\, USA\nTransm
- ision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/g
+ ision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/g
  ameId/760465/brazil-scotland\nCalendario sujeto a cambios.
 LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, USA
 STATUS:CONFIRMED
@@ -943,13 +943,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760466@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:Mundial 2026: South Africa vs South Korea
-DESCRIPTION:Sede: Estadio BBVA\, Guadalupe\, Mexico\nTransmision: FS1\, Tel
- e\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760466/sou
- th-korea-south-africa\nCalendario sujeto a cambios.
+DESCRIPTION:Sede: Estadio BBVA\, Guadalupe\, Mexico\nTransmision: FS1\, Uni
+ verso\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760466
+ /south-korea-south-africa\nCalendario sujeto a cambios.
 LOCATION:Estadio BBVA\, Guadalupe\, Mexico
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -961,12 +961,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760467@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:Mundial 2026: Czechia vs Mexico
 DESCRIPTION:Sede: Estadio Banorte\, Mexico City\, Mexico\nTransmision: FOX\
- , Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/76046
+ , Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/76046
  7/mexico-czechia\nCalendario sujeto a cambios.
 LOCATION:Estadio Banorte\, Mexico City\, Mexico
 STATUS:CONFIRMED
@@ -979,12 +979,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760468@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:Mundial 2026: Ecuador vs Germany
 DESCRIPTION:Sede: MetLife Stadium\, East Rutherford\, New Jersey\, USA\nTra
- nsmision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/
+ nsmision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/
  _/gameId/760468/germany-ecuador\nCalendario sujeto a cambios.
 LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, USA
 STATUS:CONFIRMED
@@ -997,13 +997,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760473@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:Mundial 2026: Curaçao vs Ivory Coast
 DESCRIPTION:Sede: Lincoln Financial Field\, Philadelphia\, Pennsylvania\, U
- SA\nTransmision: FS1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer
- /match/_/gameId/760473/ivory-coast-curacao\nCalendario sujeto a cambios.
+ SA\nTransmision: FS1\, Universo\, FOX One\nFuente: https://www.espn.com/so
+ ccer/match/_/gameId/760473/ivory-coast-curacao\nCalendario sujeto a cambio
+ s.
 LOCATION:Lincoln Financial Field\, Philadelphia\, Pennsylvania\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1015,13 +1016,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760471@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 SUMMARY:Mundial 2026: Japan vs Sweden
-DESCRIPTION:Sede: AT&T Stadium\, Arlington\, Texas\, USA\nTransmision: FS1\
- , Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/76047
- 1/sweden-japan\nCalendario sujeto a cambios.
+DESCRIPTION:Sede: AT&T Stadium\, Arlington\, Texas\, USA\nTransmision: FOX\
+ , Universo\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/7
+ 60471/sweden-japan\nCalendario sujeto a cambios.
 LOCATION:AT&T Stadium\, Arlington\, Texas\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1033,12 +1034,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760472@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 SUMMARY:Mundial 2026: Tunisia vs Netherlands
 DESCRIPTION:Sede: GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\
- , USA\nTransmision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soc
+ , USA\nTransmision: FS1\, Tele\, FOX One\nFuente: https://www.espn.com/soc
  cer/match/_/gameId/760472/netherlands-tunisia\nCalendario sujeto a cambios
  .
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, USA
@@ -1052,13 +1053,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760469@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:Mundial 2026: Paraguay vs Australia
 DESCRIPTION:Sede: Levi's Stadium\, Santa Clara\, California\, USA\nTransmis
- ion: FS1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gam
- eId/760469/australia-paraguay\nCalendario sujeto a cambios.
+ ion: FS1\, Universo\, FOX One\nFuente: https://www.espn.com/soccer/match/_
+ /gameId/760469/australia-paraguay\nCalendario sujeto a cambios.
 LOCATION:Levi's Stadium\, Santa Clara\, California\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1070,12 +1071,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760470@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:Mundial 2026: Türkiye vs United States
 DESCRIPTION:Sede: SoFi Stadium\, Inglewood\, California\, USA\nTransmision:
-  FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/
+  FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/
  760470/united-states-turkiye\nCalendario sujeto a cambios.
 LOCATION:SoFi Stadium\, Inglewood\, California\, USA
 STATUS:CONFIRMED
@@ -1088,13 +1089,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760474@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:Mundial 2026: Senegal vs Iraq
-DESCRIPTION:Sede: BMO Field\, Toronto\, Canada\nTransmision: FS1\, Tele\, P
- eacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760474/iraq-sen
- egal\nCalendario sujeto a cambios.
+DESCRIPTION:Sede: BMO Field\, Toronto\, Canada\nTransmision: FS1\, Universo
+ \, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760474/iraq
+ -senegal\nCalendario sujeto a cambios.
 LOCATION:BMO Field\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1106,12 +1107,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760475@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:Mundial 2026: Norway vs France
 DESCRIPTION:Sede: Gillette Stadium\, Foxborough\, Massachusetts\, USA\nTran
- smision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_
+ smision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_
  /gameId/760475/france-norway\nCalendario sujeto a cambios.
 LOCATION:Gillette Stadium\, Foxborough\, Massachusetts\, USA
 STATUS:CONFIRMED
@@ -1124,13 +1125,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760478@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:Mundial 2026: Cape Verde vs Saudi Arabia
-DESCRIPTION:Sede: NRG Stadium\, Houston\, Texas\, USA\nTransmision: FS1\, T
- ele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760478/s
- audi-arabia-cape-verde\nCalendario sujeto a cambios.
+DESCRIPTION:Sede: NRG Stadium\, Houston\, Texas\, USA\nTransmision: FS1\, U
+ niverso\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/7604
+ 78/saudi-arabia-cape-verde\nCalendario sujeto a cambios.
 LOCATION:NRG Stadium\, Houston\, Texas\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1142,12 +1143,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760479@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:Mundial 2026: Uruguay vs Spain
 DESCRIPTION:Sede: Estadio Akron\, Guadalajara\, Mexico\nTransmision: FOX\, 
- Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760479/
+ Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760479/
  spain-uruguay\nCalendario sujeto a cambios.
 LOCATION:Estadio Akron\, Guadalajara\, Mexico
 STATUS:CONFIRMED
@@ -1160,12 +1161,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760476@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:Mundial 2026: Egypt vs Iran
 DESCRIPTION:Sede: Lumen Field\, Seattle\, Washington\, USA\nTransmision: FS
- 1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760
+ 1\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760
  476/iran-egypt\nCalendario sujeto a cambios.
 LOCATION:Lumen Field\, Seattle\, Washington\, USA
 STATUS:CONFIRMED
@@ -1178,13 +1179,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760477@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:Mundial 2026: New Zealand vs Belgium
-DESCRIPTION:Sede: BC Place\, Vancouver\, Canada\nTransmision: FOX\, Tele\, 
- Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760477/belgium
- -new-zealand\nCalendario sujeto a cambios.
+DESCRIPTION:Sede: BC Place\, Vancouver\, Canada\nTransmision: FOX\, Univers
+ o\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760477/bel
+ gium-new-zealand\nCalendario sujeto a cambios.
 LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1196,13 +1197,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760480@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 SUMMARY:Mundial 2026: Croatia vs Ghana
 DESCRIPTION:Sede: Lincoln Financial Field\, Philadelphia\, Pennsylvania\, U
- SA\nTransmision: FS1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer
- /match/_/gameId/760480/ghana-croatia\nCalendario sujeto a cambios.
+ SA\nTransmision: FS1\, Universo\, FOX One\nFuente: https://www.espn.com/so
+ ccer/match/_/gameId/760480/ghana-croatia\nCalendario sujeto a cambios.
 LOCATION:Lincoln Financial Field\, Philadelphia\, Pennsylvania\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1214,12 +1215,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760485@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 SUMMARY:Mundial 2026: Panama vs England
 DESCRIPTION:Sede: MetLife Stadium\, East Rutherford\, New Jersey\, USA\nTra
- nsmision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/
+ nsmision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/
  _/gameId/760485/england-panama\nCalendario sujeto a cambios.
 LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, USA
 STATUS:CONFIRMED
@@ -1232,12 +1233,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760481@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 SUMMARY:Mundial 2026: Colombia vs Portugal
 DESCRIPTION:Sede: Hard Rock Stadium\, Miami Gardens\, Florida\, USA\nTransm
- ision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/g
+ ision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/g
  ameId/760481/portugal-colombia\nCalendario sujeto a cambios.
 LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, USA
 STATUS:CONFIRMED
@@ -1250,13 +1251,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760482@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 SUMMARY:Mundial 2026: Congo DR vs Uzbekistan
 DESCRIPTION:Sede: Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nTransmis
- ion: FS1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gam
- eId/760482/uzbekistan-congo-dr\nCalendario sujeto a cambios.
+ ion: FS1\, Universo\, FOX One\nFuente: https://www.espn.com/soccer/match/_
+ /gameId/760482/uzbekistan-congo-dr\nCalendario sujeto a cambios.
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1268,12 +1269,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760483@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:Mundial 2026: Jordan vs Argentina
 DESCRIPTION:Sede: AT&T Stadium\, Arlington\, Texas\, USA\nTransmision: FOX\
- , Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/76048
+ , Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/76048
  3/argentina-jordan\nCalendario sujeto a cambios.
 LOCATION:AT&T Stadium\, Arlington\, Texas\, USA
 STATUS:CONFIRMED
@@ -1286,13 +1287,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760484@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:Mundial 2026: Algeria vs Austria
 DESCRIPTION:Sede: GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\
- , USA\nTransmision: FS1\, Tele\, Peacock\nFuente: https://www.espn.com/soc
- cer/match/_/gameId/760484/austria-algeria\nCalendario sujeto a cambios.
+ , USA\nTransmision: FS1\, Universo\, FOX One\nFuente: https://www.espn.com
+ /soccer/match/_/gameId/760484/austria-algeria\nCalendario sujeto a cambios
+ .
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1304,324 +1306,318 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760486@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
-SUMMARY:Mundial 2026: Group A 2nd Place vs Group B 2nd Place
+SUMMARY:Mundial 2026: South Africa vs Canada
 DESCRIPTION:Sede: SoFi Stadium\, Inglewood\, California\, USA\nTransmision:
-  FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/
- 760486/group-b-2nd-place-group-a-2nd-place\nCalendario sujeto a cambios.
+  FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/
+ 760486/canada-south-africa\nCalendario sujeto a cambios.
 LOCATION:SoFi Stadium\, Inglewood\, California\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group A 2nd Place vs Group B 2nd Place
+DESCRIPTION:Mundial 2026: South Africa vs Canada
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760487@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
-SUMMARY:Mundial 2026: Group C Winner vs Group F 2nd Place
+SUMMARY:Mundial 2026: Brazil vs Japan
 DESCRIPTION:Sede: NRG Stadium\, Houston\, Texas\, USA\nTransmision: FOX\, T
- ele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760487/g
- roup-f-2nd-place-group-c-winner\nCalendario sujeto a cambios.
+ ele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760487/j
+ apan-brazil\nCalendario sujeto a cambios.
 LOCATION:NRG Stadium\, Houston\, Texas\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group C Winner vs Group F 2nd Place
+DESCRIPTION:Mundial 2026: Brazil vs Japan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760489@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
-SUMMARY:Mundial 2026: Group E Winner vs Third Place Group A/B/C/D/F
+SUMMARY:Mundial 2026: Germany vs Paraguay
 DESCRIPTION:Sede: Gillette Stadium\, Foxborough\, Massachusetts\, USA\nTran
- smision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_
- /gameId/760489/third-place-group-abcdf-group-e-winner\nCalendario sujeto a
-  cambios.
+ smision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_
+ /gameId/760489/paraguay-germany\nCalendario sujeto a cambios.
 LOCATION:Gillette Stadium\, Foxborough\, Massachusetts\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group E Winner vs Third Place Group A/B/C/D/F
+DESCRIPTION:Mundial 2026: Germany vs Paraguay
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760488@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-SUMMARY:Mundial 2026: Group F Winner vs Group C 2nd Place
+SUMMARY:Mundial 2026: Netherlands vs Morocco
 DESCRIPTION:Sede: Estadio BBVA\, Guadalupe\, Mexico\nTransmision: FOX\, Tel
- e\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760488/gro
- up-c-2nd-place-group-f-winner\nCalendario sujeto a cambios.
+ e\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760488/mor
+ occo-netherlands\nCalendario sujeto a cambios.
 LOCATION:Estadio BBVA\, Guadalupe\, Mexico
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group F Winner vs Group C 2nd Place
+DESCRIPTION:Mundial 2026: Netherlands vs Morocco
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760490@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
-SUMMARY:Mundial 2026: Group E 2nd Place vs Group I 2nd Place
+SUMMARY:Mundial 2026: Ivory Coast vs Norway
 DESCRIPTION:Sede: AT&T Stadium\, Arlington\, Texas\, USA\nTransmision: FOX\
- , Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/76049
- 0/group-i-2nd-place-group-e-2nd-place\nCalendario sujeto a cambios.
+ , Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/76049
+ 0/norway-ivory-coast\nCalendario sujeto a cambios.
 LOCATION:AT&T Stadium\, Arlington\, Texas\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group E 2nd Place vs Group I 2nd Place
+DESCRIPTION:Mundial 2026: Ivory Coast vs Norway
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760492@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-SUMMARY:Mundial 2026: Group I Winner vs Third Place Group C/D/F/G/H
+SUMMARY:Mundial 2026: France vs Sweden
 DESCRIPTION:Sede: MetLife Stadium\, East Rutherford\, New Jersey\, USA\nTra
- nsmision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/
- _/gameId/760492/third-place-group-cdfgh-group-i-winner\nCalendario sujeto 
- a cambios.
+ nsmision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/
+ _/gameId/760492/sweden-france\nCalendario sujeto a cambios.
 LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group I Winner vs Third Place Group C/D/F/G/H
+DESCRIPTION:Mundial 2026: France vs Sweden
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760491@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
-SUMMARY:Mundial 2026: Group A Winner vs Third Place Group C/E/F/H/I
+SUMMARY:Mundial 2026: Mexico vs Ecuador
 DESCRIPTION:Sede: Estadio Banorte\, Mexico City\, Mexico\nTransmision: FOX\
- , Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/76049
- 1/third-place-group-cefhi-group-a-winner\nCalendario sujeto a cambios.
+ , Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/76049
+ 1/ecuador-mexico\nCalendario sujeto a cambios.
 LOCATION:Estadio Banorte\, Mexico City\, Mexico
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group A Winner vs Third Place Group C/E/F/H/I
+DESCRIPTION:Mundial 2026: Mexico vs Ecuador
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760495@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-SUMMARY:Mundial 2026: Group L Winner vs Third Place Group E/H/I/J/K
+SUMMARY:Mundial 2026: England vs Congo DR
 DESCRIPTION:Sede: Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nTransmis
- ion: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gam
- eId/760495/third-place-group-ehijk-group-l-winner\nCalendario sujeto a cam
- bios.
+ ion: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gam
+ eId/760495/congo-dr-england\nCalendario sujeto a cambios.
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group L Winner vs Third Place Group E/H/I/J/K
+DESCRIPTION:Mundial 2026: England vs Congo DR
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760493@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
-SUMMARY:Mundial 2026: Group G Winner vs Third Place Group A/E/H/I/J
+SUMMARY:Mundial 2026: Belgium vs Senegal
 DESCRIPTION:Sede: Lumen Field\, Seattle\, Washington\, USA\nTransmision: FS
- 1\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760
- 493/third-place-group-aehij-group-g-winner\nCalendario sujeto a cambios.
+ 1\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760
+ 493/senegal-belgium\nCalendario sujeto a cambios.
 LOCATION:Lumen Field\, Seattle\, Washington\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group G Winner vs Third Place Group A/E/H/I/J
+DESCRIPTION:Mundial 2026: Belgium vs Senegal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760494@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
-SUMMARY:Mundial 2026: Group D Winner vs Third Place Group B/E/F/I/J
+SUMMARY:Mundial 2026: United States vs Bosnia-Herzegovina
 DESCRIPTION:Sede: Levi's Stadium\, Santa Clara\, California\, USA\nTransmis
- ion: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gam
- eId/760494/third-place-group-befij-group-d-winner\nCalendario sujeto a cam
- bios.
+ ion: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gam
+ eId/760494/bosnia-herzegovina-united-states\nCalendario sujeto a cambios.
 LOCATION:Levi's Stadium\, Santa Clara\, California\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group D Winner vs Third Place Group B/E/F/I/J
+DESCRIPTION:Mundial 2026: United States vs Bosnia-Herzegovina
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760497@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
-SUMMARY:Mundial 2026: Group H Winner vs Group J 2nd Place
+SUMMARY:Mundial 2026: Spain vs Austria
 DESCRIPTION:Sede: SoFi Stadium\, Inglewood\, California\, USA\nTransmision:
-  FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/
- 760497/group-j-2nd-place-group-h-winner\nCalendario sujeto a cambios.
+  FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/
+ 760497/austria-spain\nCalendario sujeto a cambios.
 LOCATION:SoFi Stadium\, Inglewood\, California\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group H Winner vs Group J 2nd Place
+DESCRIPTION:Mundial 2026: Spain vs Austria
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760496@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
-SUMMARY:Mundial 2026: Group K 2nd Place vs Group L 2nd Place
-DESCRIPTION:Sede: BMO Field\, Toronto\, Canada\nTransmision: FOX\, Tele\, P
- eacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760496/group-l-
- 2nd-place-group-k-2nd-place\nCalendario sujeto a cambios.
+SUMMARY:Mundial 2026: Portugal vs Croatia
+DESCRIPTION:Sede: BMO Field\, Toronto\, Canada\nTransmision: FOX\, Tele\, F
+ OX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760496/croatia-
+ portugal\nCalendario sujeto a cambios.
 LOCATION:BMO Field\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group K 2nd Place vs Group L 2nd Place
+DESCRIPTION:Mundial 2026: Portugal vs Croatia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760498@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
-SUMMARY:Mundial 2026: Group B Winner vs Third Place Group E/F/G/I/J
+SUMMARY:Mundial 2026: Switzerland vs Algeria
 DESCRIPTION:Sede: BC Place\, Vancouver\, Canada\nTransmision: FS1\, Tele\, 
- Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760498/third-p
- lace-group-efgij-group-b-winner\nCalendario sujeto a cambios.
+ FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760498/algeria
+ -switzerland\nCalendario sujeto a cambios.
 LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group B Winner vs Third Place Group E/F/G/I/J
+DESCRIPTION:Mundial 2026: Switzerland vs Algeria
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760499@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
-SUMMARY:Mundial 2026: Group D 2nd Place vs Group G 2nd Place
+SUMMARY:Mundial 2026: Australia vs Egypt
 DESCRIPTION:Sede: AT&T Stadium\, Arlington\, Texas\, USA\nTransmision: FOX\
- , Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/76049
- 9/group-g-2nd-place-group-d-2nd-place\nCalendario sujeto a cambios.
+ , Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/76049
+ 9/egypt-australia\nCalendario sujeto a cambios.
 LOCATION:AT&T Stadium\, Arlington\, Texas\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group D 2nd Place vs Group G 2nd Place
+DESCRIPTION:Mundial 2026: Australia vs Egypt
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760500@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
-SUMMARY:Mundial 2026: Group J Winner vs Group H 2nd Place
+SUMMARY:Mundial 2026: Argentina vs Cape Verde
 DESCRIPTION:Sede: Hard Rock Stadium\, Miami Gardens\, Florida\, USA\nTransm
- ision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/g
- ameId/760500/group-h-2nd-place-group-j-winner\nCalendario sujeto a cambios
- .
+ ision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/g
+ ameId/760500/cape-verde-argentina\nCalendario sujeto a cambios.
 LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group J Winner vs Group H 2nd Place
+DESCRIPTION:Mundial 2026: Argentina vs Cape Verde
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760501@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-SUMMARY:Mundial 2026: Group K Winner vs Third Place Group D/E/I/J/L
+SUMMARY:Mundial 2026: Colombia vs Ghana
 DESCRIPTION:Sede: GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\
- , USA\nTransmision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soc
- cer/match/_/gameId/760501/third-place-group-deijl-group-k-winner\nCalendar
- io sujeto a cambios.
+ , USA\nTransmision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soc
+ cer/match/_/gameId/760501/ghana-colombia\nCalendario sujeto a cambios.
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Group K Winner vs Third Place Group D/E/I/J/L
+DESCRIPTION:Mundial 2026: Colombia vs Ghana
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760502@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
-SUMMARY:Mundial 2026: Round of 32 1 Winner vs Round of 32 3 Winner
+SUMMARY:Mundial 2026: Canada vs Round of 32 3 Winner
 DESCRIPTION:Sede: NRG Stadium\, Houston\, Texas\, USA\nTransmision: FOX\, T
- ele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760502/r
- ound-of-32-3-winner-round-of-32-1-winner\nCalendario sujeto a cambios.
+ ele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760502/r
+ ound-of-32-3-winner-canada\nCalendario sujeto a cambios.
 LOCATION:NRG Stadium\, Houston\, Texas\, USA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Mundial 2026: Round of 32 1 Winner vs Round of 32 3 Winner
+DESCRIPTION:Mundial 2026: Canada vs Round of 32 3 Winner
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760503@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
 SUMMARY:Mundial 2026: Round of 32 2 Winner vs Round of 32 5 Winner
 DESCRIPTION:Sede: Lincoln Financial Field\, Philadelphia\, Pennsylvania\, U
- SA\nTransmision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer
+ SA\nTransmision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer
  /match/_/gameId/760503/round-of-32-5-winner-round-of-32-2-winner\nCalendar
  io sujeto a cambios.
 LOCATION:Lincoln Financial Field\, Philadelphia\, Pennsylvania\, USA
@@ -1635,12 +1631,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760504@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
 SUMMARY:Mundial 2026: Round of 32 4 Winner vs Round of 32 6 Winner
 DESCRIPTION:Sede: MetLife Stadium\, East Rutherford\, New Jersey\, USA\nTra
- nsmision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/
+ nsmision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/
  _/gameId/760504/round-of-32-6-winner-round-of-32-4-winner\nCalendario suje
  to a cambios.
 LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, USA
@@ -1654,12 +1650,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760505@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
 SUMMARY:Mundial 2026: Round of 32 7 Winner vs Round of 32 8 Winner
 DESCRIPTION:Sede: Estadio Banorte\, Mexico City\, Mexico\nTransmision: FOX\
- , Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/76050
+ , Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/76050
  5/round-of-32-8-winner-round-of-32-7-winner\nCalendario sujeto a cambios.
 LOCATION:Estadio Banorte\, Mexico City\, Mexico
 STATUS:CONFIRMED
@@ -1672,12 +1668,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760506@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
 SUMMARY:Mundial 2026: Round of 32 11 Winner vs Round of 32 12 Winner
 DESCRIPTION:Sede: AT&T Stadium\, Arlington\, Texas\, USA\nTransmision: FOX\
- , Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/76050
+ , Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/76050
  6/round-of-32-12-winner-round-of-32-11-winner\nCalendario sujeto a cambios
  .
 LOCATION:AT&T Stadium\, Arlington\, Texas\, USA
@@ -1691,12 +1687,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760507@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
 SUMMARY:Mundial 2026: Round of 32 9 Winner vs Round of 32 10 Winner
 DESCRIPTION:Sede: Lumen Field\, Seattle\, Washington\, USA\nTransmision: FO
- X\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760
+ X\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760
  507/round-of-32-10-winner-round-of-32-9-winner\nCalendario sujeto a cambio
  s.
 LOCATION:Lumen Field\, Seattle\, Washington\, USA
@@ -1710,12 +1706,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760509@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
 SUMMARY:Mundial 2026: Round of 32 14 Winner vs Round of 32 16 Winner
 DESCRIPTION:Sede: Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nTransmis
- ion: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gam
+ ion: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gam
  eId/760509/round-of-32-16-winner-round-of-32-14-winner\nCalendario sujeto 
  a cambios.
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA
@@ -1729,12 +1725,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760508@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
 SUMMARY:Mundial 2026: Round of 32 13 Winner vs Round of 32 15 Winner
 DESCRIPTION:Sede: BC Place\, Vancouver\, Canada\nTransmision: FOX\, Tele\, 
- Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/760508/round-o
+ FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/760508/round-o
  f-32-15-winner-round-of-32-13-winner\nCalendario sujeto a cambios.
 LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
@@ -1747,12 +1743,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760510@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 SUMMARY:Mundial 2026: Round of 16 1 Winner vs Round of 16 2 Winner
 DESCRIPTION:Sede: Gillette Stadium\, Foxborough\, Massachusetts\, USA\nTran
- smision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_
+ smision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_
  /gameId/760510/round-of-16-2-winner-round-of-16-1-winner\nCalendario sujet
  o a cambios.
 LOCATION:Gillette Stadium\, Foxborough\, Massachusetts\, USA
@@ -1766,12 +1762,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760511@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
 SUMMARY:Mundial 2026: Round of 16 5 Winner vs Round of 16 6 Winner
 DESCRIPTION:Sede: SoFi Stadium\, Inglewood\, California\, USA\nTransmision:
-  FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/
+  FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/
  760511/round-of-16-6-winner-round-of-16-5-winner\nCalendario sujeto a camb
  ios.
 LOCATION:SoFi Stadium\, Inglewood\, California\, USA
@@ -1785,12 +1781,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760512@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
 SUMMARY:Mundial 2026: Round of 16 3 Winner vs Round of 16 4 Winner
 DESCRIPTION:Sede: Hard Rock Stadium\, Miami Gardens\, Florida\, USA\nTransm
- ision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/g
+ ision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/g
  ameId/760512/round-of-16-4-winner-round-of-16-3-winner\nCalendario sujeto 
  a cambios.
 LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, USA
@@ -1804,12 +1800,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760513@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
 SUMMARY:Mundial 2026: Round of 16 7 Winner vs Round of 16 8 Winner
 DESCRIPTION:Sede: GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\
- , USA\nTransmision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soc
+ , USA\nTransmision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soc
  cer/match/_/gameId/760513/round-of-16-8-winner-round-of-16-7-winner\nCalen
  dario sujeto a cambios.
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, Missouri\, USA
@@ -1823,12 +1819,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760514@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
 SUMMARY:Mundial 2026: Quarterfinal 1 Winner vs Quarterfinal 2 Winner
 DESCRIPTION:Sede: AT&T Stadium\, Arlington\, Texas\, USA\nTransmision: FOX\
- , Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gameId/76051
+ , Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gameId/76051
  4/quarterfinal-2-winner-quarterfinal-1-winner\nCalendario sujeto a cambios
  .
 LOCATION:AT&T Stadium\, Arlington\, Texas\, USA
@@ -1842,12 +1838,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760515@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 SUMMARY:Mundial 2026: Quarterfinal 3 Winner vs Quarterfinal 4 Winner
 DESCRIPTION:Sede: Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA\nTransmis
- ion: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/gam
+ ion: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/gam
  eId/760515/quarterfinal-4-winner-quarterfinal-3-winner\nCalendario sujeto 
  a cambios.
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia\, USA
@@ -1861,12 +1857,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760516@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
 SUMMARY:Mundial 2026: Semifinal 1 Loser vs Semifinal 2 Loser
 DESCRIPTION:Sede: Hard Rock Stadium\, Miami Gardens\, Florida\, USA\nTransm
- ision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/_/g
+ ision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/_/g
  ameId/760516/semifinal-2-loser-semifinal-1-loser\nCalendario sujeto a camb
  ios.
 LOCATION:Hard Rock Stadium\, Miami Gardens\, Florida\, USA
@@ -1880,12 +1876,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-cup-2026-760517@calendario-mundial.local
-DTSTAMP:20260610T183011Z
+DTSTAMP:20260629T160236Z
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
 SUMMARY:Mundial 2026: Semifinal 1 Winner vs Semifinal 2 Winner
 DESCRIPTION:Sede: MetLife Stadium\, East Rutherford\, New Jersey\, USA\nTra
- nsmision: FOX\, Tele\, Peacock\nFuente: https://www.espn.com/soccer/match/
+ nsmision: FOX\, Tele\, FOX One\nFuente: https://www.espn.com/soccer/match/
  _/gameId/760517/semifinal-2-winner-semifinal-1-winner\nCalendario sujeto a
   cambios.
 LOCATION:MetLife Stadium\, East Rutherford\, New Jersey\, USA
